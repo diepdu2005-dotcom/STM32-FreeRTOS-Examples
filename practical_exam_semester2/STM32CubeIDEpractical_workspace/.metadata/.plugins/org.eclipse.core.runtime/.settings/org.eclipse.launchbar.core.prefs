@@ -1,0 +1,14 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Pre-emption Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_waiting Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_FIFO_BlockingMachanism Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_BinarySemaphore Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_countingSemaphore Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_InterruptProcessing Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_ThreadSafety Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Pointer_ArrayTransmission Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32ff103vet6_freertos_ExecutionContext Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_BlockingProhibition Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_ISRQueue Debug,org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Round-robin Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_BlockingProhibition\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_FIFO_BlockingMachanism\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_ISRQueue\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_InterruptProcessing\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Pre-emption\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Pre-emption\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Round-robin\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_Round-robin\ Debug/activeLaunchTarget=null\:---
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:stm32f103vet6_freertos_countingSemaphore\ Debug/activeLaunchMode=debug

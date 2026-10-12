@@ -1,0 +1,10 @@
+11:31:20 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_ISRQueue ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_ISRQueue.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22340	    108	   8460	  30908	   78bc	stm32f103vet6_freertos_ISRQueue.elf
+Finished building: default.size.stdout
+ 
+
+11:31:20 Build Finished. 0 errors, 0 warnings. (took 256ms)
+

@@ -1,0 +1,4 @@
+../led_lib/LED7SEG.c:4:6:Delay	24	static
+../led_lib/LED7SEG.c:11:6:ShiftingLatch	8	static
+../led_lib/LED7SEG.c:19:6:ShiftingOut	24	static
+../led_lib/LED7SEG.c:39:6:Display_7_SEG	32	static

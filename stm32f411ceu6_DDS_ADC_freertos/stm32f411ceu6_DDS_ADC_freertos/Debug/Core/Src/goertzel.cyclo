@@ -1,0 +1,8 @@
+../Core/Src/goertzel.c:7:6:goertzel_reset	1
+../Core/Src/goertzel.c:15:6:goertzel_init	1
+../Core/Src/goertzel.c:42:6:goertzel_process_sample	1
+../Core/Src/goertzel.c:52:6:goertzel_process_sample_pcm8	1
+../Core/Src/goertzel.c:58:6:goertzel_process_sample_pcm16	1
+../Core/Src/goertzel.c:64:23:goertzel_get_squared_magnitude	1
+../Core/Src/goertzel.c:74:23:goertzel_get_magnitude	1
+../Core/Src/goertzel.c:79:7:process_adc_goertzel	2

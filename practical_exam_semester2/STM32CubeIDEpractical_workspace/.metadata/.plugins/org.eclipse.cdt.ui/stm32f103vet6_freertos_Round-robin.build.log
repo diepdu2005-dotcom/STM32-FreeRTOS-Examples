@@ -1,0 +1,10 @@
+11:32:29 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_Round-robin ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_Round-robin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20012	    108	   8452	  28572	   6f9c	stm32f103vet6_freertos_Round-robin.elf
+Finished building: default.size.stdout
+ 
+
+11:32:30 Build Finished. 0 errors, 0 warnings. (took 265ms)
+

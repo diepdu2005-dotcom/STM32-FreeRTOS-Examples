@@ -1,0 +1,13 @@
+../Core/Src/main.c:105:5:main	2
+../Core/Src/main.c:195:6:SystemClock_Config	3
+../Core/Src/main.c:235:13:MX_SPI1_Init	2
+../Core/Src/main.c:273:13:MX_SPI2_Init	2
+../Core/Src/main.c:310:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:343:13:MX_GPIO_Init	1
+../Core/Src/main.c:370:6:HAL_SPI_TxRxCpltCallback	5
+../Core/Src/main.c:390:6:HAL_SPI_ErrorCallback	5
+../Core/Src/main.c:410:19:SPI1_Transaction	14
+../Core/Src/main.c:530:6:StartDefaultTask	1
+../Core/Src/main.c:548:6:StartSpiTask1	2
+../Core/Src/main.c:591:6:StartSpiTask2	2
+../Core/Src/main.c:630:6:Error_Handler	1

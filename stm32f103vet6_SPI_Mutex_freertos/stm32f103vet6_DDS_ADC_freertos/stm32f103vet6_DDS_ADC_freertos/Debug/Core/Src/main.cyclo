@@ -1,0 +1,10 @@
+../Core/Src/main.c:106:6:generate_test_sine_adc	4
+../Core/Src/main.c:131:5:main	1
+../Core/Src/main.c:250:6:SystemClock_Config	3
+../Core/Src/main.c:287:13:MX_SPI2_Init	2
+../Core/Src/main.c:325:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:358:13:MX_GPIO_Init	1
+../Core/Src/main.c:395:6:StartDefaultTask	1
+../Core/Src/main.c:415:6:StartSweepTask	2
+../Core/Src/main.c:444:6:StartDDSControlTask	2
+../Core/Src/main.c:472:6:Error_Handler	1

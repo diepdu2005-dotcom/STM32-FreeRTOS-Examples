@@ -1,0 +1,10 @@
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:79:5:main	72	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:161:6:SystemClock_Config	96	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:205:13:MX_ADC1_Init	24	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:252:13:MX_TIM2_Init	64	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:311:13:MX_USART2_UART_Init	8	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:344:13:MX_GPIO_Init	16	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:370:6:StartControlTask	16	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:399:6:StartMonitorTask	48	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:426:6:HAL_TIM_PeriodElapsedCallback	16	static
+D:/Project_Embeded/stm32f103vet6_freertos_v1a/stm32f103vet6_freertos_v1a/Core/Src/main.c:444:6:Error_Handler	4	static,ignoring_inline_asm

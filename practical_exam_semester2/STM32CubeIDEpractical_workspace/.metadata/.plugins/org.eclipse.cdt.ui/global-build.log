@@ -1,0 +1,42 @@
+11:31:16 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_Round-robin ****
+make -j24 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xE -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3 -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "stm32f103vet6_freertos_Round-robin.elf" @"objects.list"   -mcpu=cortex-m3 -T"D:\Project_Embeded\practical_exam_semester2\Taskscheduling_StateMachine\stm32f103vet6_freertos_Round-robin\STM32F103VETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="stm32f103vet6_freertos_Round-robin.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: stm32f103vet6_freertos_Round-robin.elf
+ 
+arm-none-eabi-size  stm32f103vet6_freertos_Round-robin.elf 
+arm-none-eabi-objdump -h -S stm32f103vet6_freertos_Round-robin.elf  > "stm32f103vet6_freertos_Round-robin.list"
+   text	   data	    bss	    dec	    hex	filename
+  20012	    108	   8452	  28572	   6f9c	stm32f103vet6_freertos_Round-robin.elf
+Finished building: default.size.stdout
+ 
+Finished building: stm32f103vet6_freertos_Round-robin.list
+ 
+11:31:20 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_ISRQueue ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_ISRQueue.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22340	    108	   8460	  30908	   78bc	stm32f103vet6_freertos_ISRQueue.elf
+Finished building: default.size.stdout
+ 
+11:32:08 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_Round-robin ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_Round-robin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20012	    108	   8452	  28572	   6f9c	stm32f103vet6_freertos_Round-robin.elf
+Finished building: default.size.stdout
+ 
+11:32:17 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_Round-robin ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_Round-robin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20012	    108	   8452	  28572	   6f9c	stm32f103vet6_freertos_Round-robin.elf
+Finished building: default.size.stdout
+ 
+11:32:29 **** Incremental Build of configuration Debug for project stm32f103vet6_freertos_Round-robin ****
+make -j24 all 
+arm-none-eabi-size  stm32f103vet6_freertos_Round-robin.elf 
+   text	   data	    bss	    dec	    hex	filename
+  20012	    108	   8452	  28572	   6f9c	stm32f103vet6_freertos_Round-robin.elf
+Finished building: default.size.stdout
+ 

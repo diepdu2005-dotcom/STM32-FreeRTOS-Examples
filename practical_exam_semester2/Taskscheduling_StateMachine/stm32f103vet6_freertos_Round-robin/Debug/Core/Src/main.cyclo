@@ -1,0 +1,11 @@
+../Drivers/CMSIS/Include/core_cm3.h:1876:26:ITM_SendChar	4
+../Core/Src/main.c:88:5:_write	2
+../Core/Src/main.c:95:6:uart_print	1
+../Core/Src/main.c:105:5:main	1
+../Core/Src/main.c:192:6:SystemClock_Config	3
+../Core/Src/main.c:229:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:262:13:MX_GPIO_Init	1
+../Core/Src/main.c:288:6:StartDefaultTask	1
+../Core/Src/main.c:307:6:StartTaskB	1
+../Core/Src/main.c:326:6:StartTaskA	1
+../Core/Src/main.c:343:6:Error_Handler	1

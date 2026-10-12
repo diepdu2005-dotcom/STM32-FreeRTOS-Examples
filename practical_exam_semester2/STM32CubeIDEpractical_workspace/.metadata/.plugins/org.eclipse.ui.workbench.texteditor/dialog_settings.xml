@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="hal_time"/>
+		<item value="period"/>
+		<item value="MyTimerCallback"/>
+		<item value="Core/Src/freertos.c"/>
+		<item value="LowTask "/>
+		<item value="void SysTick_Handler(void)"/>
+	</list>
+	<list key="replacehistory">
+		<item value="TaskA"/>
+	</list>
+</section>

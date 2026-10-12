@@ -1,0 +1,10 @@
+../Core/Src/main.c:104:6:generate_test_sine_adc	48	static
+../Core/Src/main.c:129:5:main	176	static
+../Core/Src/main.c:231:6:SystemClock_Config	88	static
+../Core/Src/main.c:273:13:MX_SPI2_Init	8	static
+../Core/Src/main.c:311:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:344:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:382:6:StartDefaultTask	16	static
+../Core/Src/main.c:400:6:StartSweepTask	24	static
+../Core/Src/main.c:432:6:StartDDSControlTask	96	static
+../Core/Src/main.c:461:6:Error_Handler	4	static,ignoring_inline_asm
